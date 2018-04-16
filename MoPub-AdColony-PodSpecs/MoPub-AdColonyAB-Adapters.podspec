@@ -20,5 +20,5 @@ For inquiries and support, please email support@adcolony.com. \n
   s.static_framework = true
   s.source_files = 'AdColony*.{h,m}'
   s.dependency 'mopub-ios-sdk', '~> 4.0'
-  s.dependency 'AdColonyABPod', '~> 3.3.0'
+  s.dependency 'AdColony', '~> 3.3.0'
 end
