@@ -18,7 +18,7 @@ For inquiries and support, please email support@adcolony.com. \n
   s.source           = { :git => 'https://github.com/PoojaChirp/AdColonyABPod.git', :commit => 'master' }
   s.ios.deployment_target = '8.0'
   s.static_framework = true
-  s.source_files = 'AdColony/*.{h,m}'
+  s.source_files = 'AdColony*.{h,m}'
   s.dependency 'mopub-ios-sdk', '~> 4.0'
   s.dependency 'AdColonyABPod', '~> 3.3.0'
 end
